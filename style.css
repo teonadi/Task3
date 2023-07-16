@@ -26,3 +26,68 @@ header {
 nav .middle{
     margin: 0 121px;
 }
+
+.active-link {
+    color:#F50808;
+}
+
+article {
+    margin-top: 120px;
+    margin-left: 130px;
+    color: ;
+}
+
+
+article h1{
+    color:#090346;
+    margin-bottom: 24px;
+    font-size: 36px;
+;
+}
+article p {
+    color: #090346;
+    font-size: 20px;
+    margin-bottom: 120px;
+
+}
+
+.cars {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 439px;
+    background-color: #EBEBF0;
+    /* max-width: 1440px; */
+}
+
+.blue-car {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+footer {
+    background-color: #19126B;
+    display: flex;
+    height: 161px;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 130px;
+    padding-right: 130px;
+    /* max-width: 1440px; */
+}
+
+footer ul{
+    display: flex;
+   
+}
+
+.youtube{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+footer p{
+    color:#FFFFFF;
+    font-size: 16px;
+
+}

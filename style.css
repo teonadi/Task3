@@ -37,20 +37,6 @@ article {
     color: ;
 }
 
-
-article h1{
-    color:#090346;
-    margin-bottom: 24px;
-    font-size: 36px;
-;
-}
-article .parag {
-    color: #090346;
-    font-size: 20px;
-    margin-bottom: 120px;
-
-}
-
 .cars {
     display: flex;
     justify-content: center;
@@ -121,4 +107,23 @@ main div{
 
 main figure {
     padding-right: 130px;
+}
+
+.mainpageh1 {
+    color:  #17326E;
+    font-size: 36px;
+
+}
+
+.text {
+margin-top: 24px;
+margin-bottom: 120px;
+font-size: 20px;
+color: #090346;
+}
+
+article h1{
+    color: #19126B;
+    font-size: 36px;
+
 }
